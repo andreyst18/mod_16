@@ -1,0 +1,27 @@
+table, th, td { 
+    border: 1px solid black; 
+}
+
+table { 
+    border-collapse: collapse; 
+    width: 0%;
+}
+
+#tableResult {
+    margin-top: 10px;
+}
+
+td {
+    width: 50px;
+}
+
+td {
+    font-weight: bold;
+    text-align: center;
+}
+
+.values {
+    font-weight: normal;
+    padding: 0 10px;
+}
+
