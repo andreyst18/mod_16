@@ -1,3 +1,5 @@
+//Задание 5
+
 let userName = localStorage.getItem('userName');
 let lastVisitDate = localStorage.getItem('lastVisitDate');
 let currentDate;

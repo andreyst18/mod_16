@@ -1,3 +1,5 @@
+//Задание 3
+
 let year = '';
 let xhr = new XMLHttpRequest();
 let result = document.getElementById('tableResult');
