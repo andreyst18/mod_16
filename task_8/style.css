@@ -1,0 +1,26 @@
+body {
+    background-color: #eeeff1;
+}
+
+.message {
+    width:  420px;
+    height: 70px;
+    background-color: #d1e1e6;
+    border-radius: 5px;
+    margin-top: 15px;
+    color: blue;
+    text-align: center;
+    line-height: 4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.picture {
+    width: 15%;
+    height: 15%;
+    margin: 10px;
+}
+
+.requestArea {
+    margin: 10px;
+}
+
